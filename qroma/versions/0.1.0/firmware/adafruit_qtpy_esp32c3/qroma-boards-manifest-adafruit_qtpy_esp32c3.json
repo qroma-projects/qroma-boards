@@ -1,0 +1,1 @@
+{"name": "qroma-boards", "version": "esp32", "builds": [{"chipFamily": "ESP32-C3", "parts": [{"path": "qroma-boards-firmware-adafruit_qtpy_esp32c3.bin", "offset": 0}]}]}

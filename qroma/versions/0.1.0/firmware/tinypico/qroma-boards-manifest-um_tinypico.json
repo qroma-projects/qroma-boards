@@ -1,0 +1,1 @@
+{"name": "qroma-boards", "version": "esp32", "builds": [{"chipFamily": "ESP32", "parts": [{"path": "qroma-boards-firmware-um_tinypico.bin", "offset": 0}]}]}
